@@ -1,0 +1,9 @@
+{
+  "name": "FSU",
+  "description": "Reccomend free software",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "index.js"
+  }
+}
