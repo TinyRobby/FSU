@@ -6,7 +6,4 @@
   "background": {
     "scripts": "backround.js"
   }
-  "permissions": [
-          "notifications"
-  ]
 }

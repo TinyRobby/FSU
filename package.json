@@ -1,0 +1,23 @@
+{
+  "name": "fsu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backround.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinyRobby/FSU.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TinyRobby/FSU/issues"
+  },
+  "homepage": "https://github.com/TinyRobby/FSU#readme",
+  "dependencies": {
+    "jsdom": "^19.0.0"
+  }
+}
