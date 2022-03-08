@@ -4,10 +4,9 @@
   "version": "1.0",
   "manifest_version": 3,
   "background": {
-    "service_worker": "backround.js"
+    "scripts": "backround.js"
   }
 	"permissions": [
           "notifications"
-          //other permissions in your extension
   ]
 }
