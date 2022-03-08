@@ -6,4 +6,8 @@
   "background": {
     "service_worker": "backround.js"
   }
+	"permissions": [
+          "notifications"
+          //other permissions in your extension
+  ]
 }
