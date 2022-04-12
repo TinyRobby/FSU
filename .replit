@@ -1,4 +1,4 @@
-entrypoint = "backround.js"
+entrypoint = "script.js"
 
 [interpreter]
 command = [

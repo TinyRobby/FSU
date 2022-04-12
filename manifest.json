@@ -1,9 +1,14 @@
 {
   "name": "FSU",
   "description": "Reccomend free software",
-  "version": "1.0",
+  "version": "0.1.0",
   "manifest_version": 3,
   "background": {
-    "service_worker": "scripts/script.js"
-  }
+	"service_worker": "script.js"
+  },
+	"permissions": [
+		"tabs",
+		"http://*",
+		"https://*"
+	]
 }
