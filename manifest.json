@@ -8,7 +8,7 @@
   },
 	"permissions": [
 		"tabs",
-		"http://office.com/*",
-		"https://adobe.com/*"
+		"http://*",
+		"https://*"
 	]
 }
